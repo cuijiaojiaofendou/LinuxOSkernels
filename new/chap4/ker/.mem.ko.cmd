@@ -1,0 +1,1 @@
+cmd_/home/lxz/linux_shiyan/chap03/ker/mem.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.8.0-19-generic/scripts/module-common.lds --build-id  -o /home/lxz/linux_shiyan/chap03/ker/mem.ko /home/lxz/linux_shiyan/chap03/ker/mem.o /home/lxz/linux_shiyan/chap03/ker/mem.mod.o

@@ -1,0 +1,1 @@
+cmd_/home/Striver/OperateSystem/new/physical.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/Striver/OperateSystem/new/physical.ko /home/Striver/OperateSystem/new/physical.o /home/Striver/OperateSystem/new/physical.mod.o

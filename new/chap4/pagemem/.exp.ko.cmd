@@ -1,0 +1,1 @@
+cmd_/home/Striver/OperateSystem/new/chap4/pagemem/exp.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/Striver/OperateSystem/new/chap4/pagemem/exp.ko /home/Striver/OperateSystem/new/chap4/pagemem/exp.o /home/Striver/OperateSystem/new/chap4/pagemem/exp.mod.o

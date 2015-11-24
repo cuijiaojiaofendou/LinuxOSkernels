@@ -1,0 +1,1 @@
+cmd_/home/Striver/OperateSystem/new/practice5/3/5-3.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/Striver/OperateSystem/new/practice5/3/5-3.ko /home/Striver/OperateSystem/new/practice5/3/5-3.o /home/Striver/OperateSystem/new/practice5/3/5-3.mod.o

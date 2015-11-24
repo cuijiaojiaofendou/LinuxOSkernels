@@ -1,0 +1,1 @@
+cmd_/home/Striver/OperateSystem/new/mem.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/Striver/OperateSystem/new/mem.ko /home/Striver/OperateSystem/new/mem.o /home/Striver/OperateSystem/new/mem.mod.o

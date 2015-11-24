@@ -1,0 +1,1 @@
+cmd_/home/Striver/OperateSystem/new/chap3/print.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/Striver/OperateSystem/new/chap3/print.ko /home/Striver/OperateSystem/new/chap3/print.o /home/Striver/OperateSystem/new/chap3/print.mod.o
